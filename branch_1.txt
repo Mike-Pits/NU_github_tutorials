@@ -1,3 +1,5 @@
-This a test file for barch_1
+This a test file for branch_1
 Created with typo on purpose
-To be correcte on server
+To be corrected on server
+
+Corrected two typos
